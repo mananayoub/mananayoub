@@ -3,7 +3,7 @@
 
 ### 𝕚 𝕒𝕞 𝕗𝕒𝕔𝕚𝕟𝕒𝕥𝕖𝕕 𝕥𝕠𝕨𝕒𝕣𝕕𝕤 𝕨𝕖𝕓 𝕕𝕖𝕧𝕖𝕝𝕠𝕡𝕞𝕖𝕟𝕥 ❤️
 
-- 🔭 I’m currently working on Web apps Development using Js, AngularJs, HTML, Bootstrap, CSS.
+- 🔭 I’m currently working on Web apps Development using Js, AngularJs, HTML, CSS.
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other people who are intrested in helping.
 - 🥅 2022 Goals: Learn more about Angular 13+
@@ -51,6 +51,7 @@
  <br></br></br><br>
  <br></br></br><br>
  <br></br></br>
+ <br>
  <h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
 <p align="center">
   <img src="https://github.com/sakshiisaxena/sakshiisaxena/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
