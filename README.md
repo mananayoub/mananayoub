@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on Web apps Development using Js, AngularJs, HTML, CSS.
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other people who are intrested in helping.
-- 🥅 2022 Goals: Learn more about Angular 13+
+- 🥅 2022 Goals: Learn more about Django & Angular 13+ 
 - ⚡  Fun fact: I love to watch and play Footbal ❤️
 - 😄 Pronouns: Bug Hunter
 
